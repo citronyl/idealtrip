@@ -1,0 +1,45 @@
+address,city,title,totalScore,price,DistanceResto,DistanceBar,DistanceDo,Description 
+"7615 Sepulveda Blvd, Van Nuys, CA 91405",Van Nuys,Hotel Inn,3.7,75,0.3,0.5,3.5,"Sepulveda Basin Wildlife Reserve, Japanese Garden"
+"5638 Sepulveda Blvd, Sherman Oaks, CA 91411",Sherman Oaks,Hampton Inn & Suites Los Angeles/Sherman Oaks,4.2,175,0.6,1.8,0.9,Sherman Oaks Castle Park
+"5525 Sepulveda Blvd, Sherman Oaks, CA 91411",Sherman Oaks,Best Western Plus Carriage Inn,4,122,0.6,1.8,0.8,Sherman Oaks Castle Park
+"8609 Sepulveda Blvd, North Hills, CA 91343",North Hills,Diamond Inn Motel,3.5,96,0.4,0.3,4.1,Andres Pico Adobe Park
+"11254 Vanowen St, Los Angeles, CA 91605",Los Angeles,Studio Lodge Hotel,3.6,57,0.07,0.8,2,Burbank Aviation Museum
+"7277 Valjean Ave, Van Nuys, CA 91406",Van Nuys,Airtel Plaza Hotel,3.9,105,1.1,1.3,1.3,Sky Zone Trampoline Park
+"9417 San Fernando Rd, Sun Valley, CA 91352",Sun Valley,LYFE INN & SUITES by AGA - Valley,3.5,114,0.9,2.5,3.3,Discovery Cube Los Angeles (Museum)
+"6147 Lankershim Blvd, North Hollywood, CA 91606",North Hollywood,Comfort Inn & Suites Near Universal - N. Hollywood - Burbank,4.1,157,0.7,0.7,1.9,The Great Wall of Los Angeles (Cultural Landmark)
+"7041 Sepulveda Blvd, Van Nuys, CA 91405",Van Nuys,Hyland Inn Van Nuys,3.6,78,0.4,0.3,2.8,Sepulveda Basin Wildlife Reserve
+"6945 Sepulveda Blvd, Van Nuys, CA 91405",Van Nuys,Hotel Star Light,3.6,96,0.4,0.3,2.7,Sepulveda Basin Wildlife Reserve
+"7615 Lankershim Blvd, North Hollywood, CA 91605",North Hollywood,Best Western Burbank Airport Inn,4.2,102,0.07,2.3,5.5,"Discovery Cube Los Angeles (Museum), Super Silly Fun Land (Waterpark)"
+"9401 Sepulveda Blvd, North Hills, CA 91343",North Hills,Hometown Inn,3.6,73,1.2,1.1,3.1,Andres Pico Adobe Park
+"8525 Sepulveda Blvd, North Hills, CA 91343",North Hills,Travel Inn,3.6,69,0.03,0.2,4.2,Andres Pico Adobe Park
+"111 E C St, Wilmington, CA 90744",Wilmington,Anchor Pointe Inn,4.4,65,0.8,0.1,1.4,The Banning Museum
+"1050 Alameda St, Wilmington, CA 90744",Wilmington,Hotel Portlight,3.6,61,1,1.7,1.6,The Banning Museum
+"308 N Avalon Blvd, Wilmington, CA 90744",Wilmington,Del Mar Hotel,4,130,0.8,0.09,1.4,The Banning Museum
+"1653 CA-1, Harbor City, CA 90710",Harbor City,Penguin Motel,3.7,120,0.2,0.8,1.3,Ken Malloy Harbor Regional Park
+"1404 CA-1, Harbor City, CA 90710",Harbor City,Unik Motel,4.1,110,0.4,1.1,1.2,Ken Malloy Harbor Regional Park
+"233 N Avalon Blvd, Wilmington, CA 90744",Wilmington,Monterey Inn,3.5,53,0.9,0.1,1.4,"Ken Malloy Harbor Regional Park, Gateway Plaza Fanfare Fountain"
+"1345 CA-1, Harbor City, CA 90710",Harbor City,Rose Inn,4,80,0.2,0.6,1.2,"Ken Malloy Habor Regional Park, Lomita Railroad Museum"
+"8244 Orion Ave, Van Nuys, CA 91406",Van Nuys,"Holiday Inn Express Van Nuys, an IHG Hotel",3.7,233,0.4,2.3,3.2,Sky Zone Trampoline Park
+"1629 CA-1, Harbor City, CA 90710",Harbor City,Colony motel,4.1,170,0.052,0.3,0.3,Weed store
+"1440 CA-1, Harbor City, CA 90710",Harbor City,Pleasant Holiday Motel,4.1,146,0.2,0.5,1,regional Park
+"1129 W Pacific Coast Hwy, Wilmington, CA 90744",Wilmington,West Coast Inn,3.8,115,0.2,1.9,0.6,Park Pool
+"1629 CA-1, Harbor City, CA 90710",Harbor City,Stay Inn Motel Harbor City,4.9,100,0.052,0.3,0.3,Beauty
+"1712 Wilmington Blvd, Wilmington, CA 90744",Wilmington,Oscar's Motel,3.7,147,0.5,2.3,0.9,Market
+"1104 W Pacific Coast Hwy, Wilmington, CA 90744",Wilmington,Crescent Inn,4,110,0.088,1.9,1.3,Plaza
+"1402 W Pacific Coast Hwy, Wilmington, CA 90744",Wilmington,Best Western Los Angeles Worldport Hotel,3.9,102,0.2,1.6,0.4,Golf Course
+"1440 CA-1, Harbor City, CA 90710",Harbor City,Travelodge by Wyndham Harbor City,4,86,0.043,0.5,1.2,Park
+"1665 Pacific Coast Hwy, Harbor City, CA 90710",Harbor City,Rodeway Inn & Suites Pacific Coast Highway,3.7,184,0.068,0.3,1.3,Museum
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,code that can calculate rating for all hotels ,,,,
+,,,rating overall ,,,,,
